@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redouane khlifah
-- 👀 I’m interested in Back End development 
+- 👀 I’m interested in Back-End development 
 - 🌱 I’m currently learning JavaScript
 
 <!---
